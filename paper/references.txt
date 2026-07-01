@@ -1,0 +1,8 @@
+Hart, P. E., Nilsson, N. J., Raphael, B. (1968).
+A Formal Basis for the Heuristic Determination of Minimum Cost Paths.
+
+Dijkstra, E. W. (1959).
+A Note on Two Problems in Connexion with Graphs.
+
+Russell, S., Norvig, P.
+Artificial Intelligence: A Modern Approach.
